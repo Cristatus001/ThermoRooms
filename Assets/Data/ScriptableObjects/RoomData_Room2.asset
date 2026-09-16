@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e468e7855ecb224ba250403daeaab0a, type: 3}
+  m_Name: RoomData_Room2
+  m_EditorClassIdentifier: 
+  roomTitle: FIND CLOSED SYSTEMS
+  factsData: {fileID: 11400000, guid: d524e90a8cf22814d9edb19fc7ac2e7d, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aadde69f514c7545ac8b7ebefed8893, type: 3}
+  m_Name: FactsData_Room2_Closed
+  m_EditorClassIdentifier: 
+  facts:
+  - A closed system exchanges energy but NOT matter with its surroundings.
+  - "A sealed pressure cooker is a closed system \u2014 heat enters but no steam
+    escapes."
+  - "The Earth is often treated as a closed system \u2014 energy from the sun enters
+    but matter stays."
+  - A closed syringe with a gas inside is a classic closed system example.
+  - In a closed system, mass is always conserved even as energy changes.

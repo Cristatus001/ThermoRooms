@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aadde69f514c7545ac8b7ebefed8893, type: 3}
+  m_Name: FactsData_Room1_Open
+  m_EditorClassIdentifier: 
+  facts:
+  - An open system exchanges both matter and energy with its surroundings.
+  - "Boiling water in an open pot loses steam \u2014 that's matter leaving the system!"
+  - "A car engine is an open system \u2014 it takes in fuel and releases exhaust."
+  - "Living things like humans are open systems \u2014 we eat, breathe and release
+    energy."
+  - A burning candle exchanges both heat and wax vapour with the surroundings.

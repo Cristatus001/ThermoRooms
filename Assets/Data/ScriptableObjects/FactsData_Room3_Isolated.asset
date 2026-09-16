@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aadde69f514c7545ac8b7ebefed8893, type: 3}
+  m_Name: FactsData_Room3_Isolated
+  m_EditorClassIdentifier: 
+  facts:
+  - An isolated system exchanges NEITHER matter nor energy with its surroundings.
+  - A perfect thermos flask is the closest real-world example of an isolated system.
+  - "Truly isolated systems don't exist in nature \u2014 they are theoretical ideals."
+  - In an isolated system, total energy always remains constant.
+  - The universe itself is considered the only true isolated system.

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f44426ee9c15a4699e3f04fe591d68, type: 3}
+  m_Name: RoomSpawn_Room3Isolated
+  m_EditorClassIdentifier: 
+  correctObjectsPool:
+  - {fileID: 11400000, guid: 0864a9c974c92ce46ae8ef692b42a966, type: 2}
+  - {fileID: 11400000, guid: 3207080b00c921e4e81b5bdfd85983a6, type: 2}
+  - {fileID: 11400000, guid: 2cc96cbfc788a464e8d6044ccf2d3cb0, type: 2}
+  - {fileID: 11400000, guid: ee883a6e260e325448c346cc46fa3171, type: 2}
+  - {fileID: 11400000, guid: 9cb072cc7bbb39e498e4a14379fdf193, type: 2}
+  - {fileID: 11400000, guid: bce93fcc6cde1a54b92744981101e65c, type: 2}
+  - {fileID: 11400000, guid: 2b19f34b448d6c44fa4dc8f8c64768ba, type: 2}
+  - {fileID: 11400000, guid: dfd52e55225f75f4aacdbfb4827a8cfd, type: 2}
+  - {fileID: 11400000, guid: e3f6522e8cc17f3459fba7b63ca98d41, type: 2}
+  - {fileID: 11400000, guid: 79c780e00731b0147b7dc89e0971861b, type: 2}
+  wrongObjectsPool:
+  - {fileID: 11400000, guid: 49ca176ecbaa4374482313c4b843d416, type: 2}
+  - {fileID: 11400000, guid: 729c951ef24ad1843994265c62a236ed, type: 2}
+  - {fileID: 11400000, guid: 2d510a01dbaf61747b7f20794c6bc5c0, type: 2}
+  - {fileID: 11400000, guid: 2fad50324bdaeb3449f84e13c2432881, type: 2}
+  - {fileID: 11400000, guid: a2c933b4b48bc484985b0b15650418f7, type: 2}
+  - {fileID: 11400000, guid: 9f38bed2fef4c364bba55817ad535ccb, type: 2}
+  - {fileID: 11400000, guid: 305c142ac283d33459a2e325e4319f39, type: 2}
+  - {fileID: 11400000, guid: 5bd89b4427c305e4f9e95d7b693cf527, type: 2}
+  - {fileID: 11400000, guid: 95c96f479ccb690469c98eb8ffc50fe1, type: 2}
+  - {fileID: 11400000, guid: efba90e80a9b0a64fa49985325abe2f5, type: 2}
+  correctCountToSpawn: 5
+  wrongCountToSpawn: 5
